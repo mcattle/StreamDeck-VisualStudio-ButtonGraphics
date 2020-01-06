@@ -2,7 +2,11 @@
 
 These are button images for Visual Studio control with an Elgato Stream Deck
 
-Button image specifications:
+[/raw-graphics](./raw-graphics) contains svg icons from the [Visual Studio 2017 Image Library](https://www.microsoft.com/en-us/download/details.aspx?id=35825) pre-rendered as PNG images to the below specifications.
+
+[/visualstudio-commands](./visualstudio-commands) contains button images extracted from the rendered raw-graphics and renamed to match the appropriate Visual Studio command.
+
+## Button image specifications:
 
 * The button image files MUST:
   * Have a 72 x 72 resolution
